@@ -42,7 +42,9 @@ python simple_crossword.py
 
 ## Screenshot
 
-![Crossword Puzzle UI](crossword_ui.png)
+![Crossword Puzzle UI](lavel1.png)
+
+![Crossword Puzzle UI](lavel2.png)
 
 ## Contributing
 
